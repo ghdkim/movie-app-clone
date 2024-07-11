@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-app-clone.git/static/css/main.48c49894.css",
+    "main.js": "/movie-app-clone.git/static/js/main.6469d421.js",
+    "index.html": "/movie-app-clone.git/index.html",
+    "main.48c49894.css.map": "/movie-app-clone.git/static/css/main.48c49894.css.map",
+    "main.6469d421.js.map": "/movie-app-clone.git/static/js/main.6469d421.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c49894.css",
+    "static/js/main.6469d421.js"
+  ]
+}
