@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Creating a website for movie summaries that have ratings above 9.0 / 10.0.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
